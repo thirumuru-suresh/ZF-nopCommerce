@@ -1,0 +1,624 @@
+2020-11-19 23:26:48,291 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-19 23:26:48,297 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:26:57,306 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-19 23:26:57,307 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:32:16,899 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-19 23:32:16,922 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:32:23,360 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-19 23:32:23,365 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:33:33,144 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-19 23:33:33,187 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:33:40,508 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-19 23:33:40,509 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:33:40,511 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-19 23:33:40,511 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:33:48,334 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-19 23:33:48,335 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:37:15,226 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-19 23:37:15,264 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:37:22,226 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-19 23:37:22,227 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:37:22,228 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-19 23:37:22,229 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:37:29,896 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-19 23:37:29,896 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:37:29,898 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.compassword:adminwill be passed
+2020-11-19 23:37:29,898 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:37:30,457 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.compassword:adminhas passed
+2020-11-19 23:37:30,458 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:37:44,654 - com.zfnopCommerce.utilities.TestLogger -INFO - Login button clicked
+2020-11-19 23:37:44,655 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:37:53,436 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-19 23:37:53,437 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:38:23,712 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-19 23:38:23,719 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:38:30,049 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-19 23:38:30,050 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:38:30,052 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-19 23:38:30,052 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:38:40,217 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-19 23:38:40,217 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:38:40,219 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-19 23:38:40,219 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:38:40,586 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-19 23:38:40,586 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:38:52,741 - com.zfnopCommerce.utilities.TestLogger -INFO - Login button clicked
+2020-11-19 23:38:52,742 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:38:59,323 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-19 23:38:59,324 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:43:23,811 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-19 23:43:23,819 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:43:30,719 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-19 23:43:30,720 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:43:30,721 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-19 23:43:30,721 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:43:39,699 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-19 23:43:39,700 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:43:39,701 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-19 23:43:39,702 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:43:40,046 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-19 23:43:40,046 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:43:51,859 - com.zfnopCommerce.utilities.TestLogger -INFO - Login button clicked
+2020-11-19 23:43:51,859 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:49:25,179 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-19 23:49:25,185 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:49:31,204 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-19 23:49:31,204 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:49:31,207 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-19 23:49:31,208 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:49:40,892 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-19 23:49:40,892 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:49:40,894 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-19 23:49:40,894 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:49:41,255 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-19 23:49:41,256 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:49:56,879 - com.zfnopCommerce.utilities.TestLogger -INFO - Login button clicked
+2020-11-19 23:49:56,879 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:50:09,617 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-19 23:50:09,617 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:52:23,580 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-19 23:52:23,588 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:52:29,124 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-19 23:52:29,125 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:52:29,130 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-19 23:52:29,130 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:52:37,817 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-19 23:52:37,818 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:52:37,819 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-19 23:52:37,819 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:52:38,189 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-19 23:52:38,189 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:52:53,181 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-19 23:52:53,182 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:54:20,579 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-19 23:54:20,586 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:54:26,385 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-19 23:54:26,386 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:54:26,388 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-19 23:54:26,389 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:54:34,358 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-19 23:54:34,359 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:54:34,360 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-19 23:54:34,361 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:54:34,759 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-19 23:54:34,760 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:54:52,475 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-19 23:54:52,476 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:54:57,508 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-19 23:54:57,510 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-19 23:55:06,553 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-19 23:55:06,553 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:01:30,504 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-20 00:01:30,514 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:01:36,491 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-20 00:01:36,492 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:01:36,494 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-20 00:01:36,495 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:01:47,556 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-20 00:01:47,556 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:01:47,560 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-20 00:01:47,561 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:01:47,925 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-20 00:01:47,925 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:02:07,160 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-20 00:02:07,161 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:02:12,173 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-20 00:02:12,174 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:02:19,362 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-20 00:02:19,362 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:40:07,580 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-20 00:40:07,586 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:40:18,573 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-20 00:40:18,573 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:40:18,575 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-20 00:40:18,575 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:41:15,221 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-20 00:41:15,235 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:41:21,447 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-20 00:41:21,448 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:41:21,450 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-20 00:41:21,450 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:43:53,473 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-20 00:43:53,478 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:44:09,353 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-20 00:44:09,354 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-20 00:44:09,356 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-20 00:44:09,356 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 19:21:23,005 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-21 19:21:23,055 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 19:21:36,452 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-21 19:21:36,453 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 19:21:36,455 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-21 19:21:36,456 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:00:24,773 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-21 20:00:24,780 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:00:31,083 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-21 20:00:31,083 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:00:31,085 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-21 20:00:31,085 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:03:44,445 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-21 20:03:44,452 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:03:49,919 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-21 20:03:49,920 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:03:49,923 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-21 20:03:49,924 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:06:23,519 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-21 20:06:23,527 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:06:29,156 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-21 20:06:29,156 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:06:29,158 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-21 20:06:29,159 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:07:44,267 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-21 20:07:44,273 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:07:50,342 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-21 20:07:50,343 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:07:50,345 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-21 20:07:50,346 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:08:15,695 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-21 20:08:15,695 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:08:15,696 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-21 20:08:15,697 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:08:16,096 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-21 20:08:16,096 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:08:31,950 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-21 20:08:31,957 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:08:38,162 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-21 20:08:38,163 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:08:38,165 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-21 20:08:38,165 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:09:10,973 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-21 20:09:10,979 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:09:16,090 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-21 20:09:16,090 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:09:16,092 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-21 20:09:16,093 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:09:23,402 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-21 20:09:23,403 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:09:23,404 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-21 20:09:23,405 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:09:23,769 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-21 20:09:23,769 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:09:35,680 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-21 20:09:35,681 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:09:40,695 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-21 20:09:40,696 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:09:46,257 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-21 20:09:46,258 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:47:17,514 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-21 20:47:17,521 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:47:22,640 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-21 20:47:22,641 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:47:22,642 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-21 20:47:22,643 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:47:30,598 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-21 20:47:30,599 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:47:30,600 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-21 20:47:30,601 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:47:31,012 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-21 20:47:31,013 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:47:45,883 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-21 20:47:45,883 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:47:51,020 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-21 20:47:51,020 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:47:56,803 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-21 20:47:56,804 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:47:57,720 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-21 20:47:57,721 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:48:02,691 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-21 20:48:02,692 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:48:02,693 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-21 20:48:02,693 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:49:17,148 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-21 20:49:17,154 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:49:25,105 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-21 20:49:25,106 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:49:25,107 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-21 20:49:25,108 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:49:36,321 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-21 20:49:36,322 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:49:36,324 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-21 20:49:36,324 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:49:36,564 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-21 20:49:36,564 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:49:56,116 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-21 20:49:56,117 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:50:01,128 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-21 20:50:01,128 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:50:08,204 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-21 20:50:08,205 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:50:20,834 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-21 20:50:20,840 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:50:26,067 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-21 20:50:26,067 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:50:26,068 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-21 20:50:26,068 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:50:34,077 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-21 20:50:34,078 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:50:34,079 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-21 20:50:34,080 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:50:34,424 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-21 20:50:34,424 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:50:48,336 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-21 20:50:48,337 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:50:53,361 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-21 20:50:53,362 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:50:58,758 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-21 20:50:58,758 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:50:58,778 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-21 20:50:58,779 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:51:03,529 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-21 20:51:03,547 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:51:03,547 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-21 20:51:03,548 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:51:17,121 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-21 20:51:17,121 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:51:17,122 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-21 20:51:17,123 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:51:17,278 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-21 20:51:17,279 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:52:04,869 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-21 20:52:04,870 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:52:09,879 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-21 20:52:09,879 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-21 20:52:16,352 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-21 20:52:16,353 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:42:19,589 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-22 21:42:19,619 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:42:32,130 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-22 21:42:32,131 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:42:32,135 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-22 21:42:32,136 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:42:39,902 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-22 21:42:39,903 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:42:39,904 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-22 21:42:39,904 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:42:40,612 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-22 21:42:40,613 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:42:46,701 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-22 21:42:46,702 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:42:51,741 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-22 21:42:51,742 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:42:58,455 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-22 21:42:58,455 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:43:00,696 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-22 21:43:00,697 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:43:29,857 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-22 21:43:29,857 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:43:29,858 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-22 21:43:29,859 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:43:36,353 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-22 21:43:36,354 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:43:36,360 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-22 21:43:36,361 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:43:36,886 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-22 21:43:36,887 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:43:42,777 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-22 21:43:42,778 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:43:47,793 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-22 21:43:47,793 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:44:01,313 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-22 21:44:01,319 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:44:06,700 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-22 21:44:06,701 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:44:06,702 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-22 21:44:06,704 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:44:13,700 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-22 21:44:13,700 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:44:13,702 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-22 21:44:13,702 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:44:14,060 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-22 21:44:14,060 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:44:23,234 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-22 21:44:23,235 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:44:28,254 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-22 21:44:28,255 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:44:34,375 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-22 21:44:34,376 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:44:34,406 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-22 21:44:34,407 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:44:40,827 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-22 21:44:40,828 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-22 21:44:40,829 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-22 21:44:40,830 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:02:33,340 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 20:02:33,374 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:02:43,067 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 20:02:43,067 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:02:43,069 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 20:02:43,069 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:02:51,274 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-24 20:02:51,275 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:02:51,276 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-24 20:02:51,277 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:02:52,079 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-24 20:02:52,079 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:02:59,752 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-24 20:02:59,753 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:03:04,786 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-24 20:03:04,786 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:03:11,189 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-24 20:03:11,189 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:03:12,521 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 20:03:12,522 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:03:34,614 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 20:03:34,615 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:03:34,615 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 20:03:34,616 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:03:40,909 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-24 20:03:40,909 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:03:40,910 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-24 20:03:40,911 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:03:41,330 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-24 20:03:41,330 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:03:48,623 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-24 20:03:48,623 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:03:53,645 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-24 20:03:53,645 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:04:01,232 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-24 20:04:01,233 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:20:32,623 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 20:20:32,633 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:20:37,478 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 20:20:37,479 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:20:37,481 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 20:20:37,481 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:20:44,190 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-24 20:20:44,191 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:20:44,193 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-24 20:20:44,194 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:20:44,646 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-24 20:20:44,647 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:20:50,307 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-24 20:20:50,307 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:20:55,347 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-24 20:20:55,348 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:21:00,665 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-24 20:21:00,665 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:21:00,695 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 20:21:00,695 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:21:06,067 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 20:21:06,068 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:21:06,069 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 20:21:06,070 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:21:12,144 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-24 20:21:12,145 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:21:12,146 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-24 20:21:12,146 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:21:12,327 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-24 20:21:12,327 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:21:18,939 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-24 20:21:18,940 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:21:23,952 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-24 20:21:23,954 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:21:30,761 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-24 20:21:30,761 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:28:53,044 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 20:28:53,053 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:28:57,766 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 20:28:57,767 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:28:57,769 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 20:28:57,770 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:29:05,764 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-24 20:29:05,765 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:29:05,766 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-24 20:29:05,767 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:29:06,389 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-24 20:29:06,390 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:29:11,717 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-24 20:29:11,718 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:29:16,898 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-24 20:29:16,899 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:29:22,209 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-24 20:29:22,210 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:29:22,235 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 20:29:22,235 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:29:30,354 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 20:29:30,354 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:29:30,356 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 20:29:30,356 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:29:42,876 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-24 20:29:42,884 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:29:42,886 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-24 20:29:42,887 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:29:45,542 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-24 20:29:45,542 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:29:54,323 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-24 20:29:54,325 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:29:59,335 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-24 20:29:59,335 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:30:08,690 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-24 20:30:08,691 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:06,280 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 20:37:06,297 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:20,739 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 20:37:20,742 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:20,745 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 20:37:20,747 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:20,768 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 20:37:20,769 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:23,250 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 20:37:23,260 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:32,553 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 20:37:32,554 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:32,556 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 20:37:32,557 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:33,043 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 20:37:33,044 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:33,046 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 20:37:33,047 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:41,681 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-24 20:37:41,681 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:41,684 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-24 20:37:41,685 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:42,199 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-24 20:37:42,199 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:45,811 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-24 20:37:47,089 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:47,096 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-24 20:37:47,105 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:48,387 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-24 20:37:48,388 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:50,468 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-24 20:37:50,802 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:37:53,421 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-24 20:37:53,421 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:38:09,931 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-24 20:38:09,932 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:38:10,023 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 20:38:10,023 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:38:23,311 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 20:38:23,312 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:38:23,313 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 20:38:23,314 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:38:29,428 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-24 20:38:29,429 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:38:29,431 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-24 20:38:29,431 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:38:29,661 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-24 20:38:29,662 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:38:34,077 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-24 20:38:34,077 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:38:39,108 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-24 20:38:39,108 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:38:46,791 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-24 20:38:46,791 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:40:16,197 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 20:40:16,209 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:40:20,665 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 20:40:20,666 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:40:20,669 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 20:40:20,669 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:40:28,860 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-24 20:40:28,861 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:40:28,864 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-24 20:40:28,865 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:40:29,353 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-24 20:40:29,353 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:40:37,530 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-24 20:40:37,530 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:40:42,557 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-24 20:40:42,558 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:40:47,933 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-24 20:40:47,934 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:40:47,957 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 20:40:47,958 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:40:54,875 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 20:40:54,875 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:40:54,876 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 20:40:54,877 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:41:02,172 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-24 20:41:02,173 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:41:02,181 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-24 20:41:02,182 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:41:02,389 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-24 20:41:02,389 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:41:11,153 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-24 20:41:11,153 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:41:16,172 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-24 20:41:16,173 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 20:41:23,780 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-24 20:41:23,780 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:51:18,008 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 22:51:18,050 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:51:24,819 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 22:51:24,820 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:51:24,823 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 22:51:24,824 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:51:34,975 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-24 22:51:34,976 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:51:34,978 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-24 22:51:34,979 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:51:35,330 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-24 22:51:35,330 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:51:55,699 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-24 22:51:55,700 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:52:00,716 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-24 22:52:00,717 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:52:07,060 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-24 22:52:07,060 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:52:08,833 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 22:52:08,836 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:52:29,326 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 22:52:29,327 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:52:29,328 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 22:52:29,328 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:52:49,636 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-24 22:52:49,636 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:52:49,638 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-24 22:52:49,638 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:52:49,776 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-24 22:52:49,777 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:53:04,776 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-24 22:53:04,777 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:53:09,785 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-24 22:53:09,786 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:53:17,872 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-24 22:53:17,872 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 22:54:40,137 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 22:54:40,147 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:04:46,518 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 23:04:46,519 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:04:46,525 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 23:04:46,525 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:04:46,575 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 23:04:46,575 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:04:55,760 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 23:04:55,761 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:04:55,770 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 23:04:55,772 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:05:07,983 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-24 23:05:07,983 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:05:07,985 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-24 23:05:07,985 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:05:11,101 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-24 23:05:11,102 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:05:22,402 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-24 23:05:22,403 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:05:27,415 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-24 23:05:27,416 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:05:35,520 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-24 23:05:35,521 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:35:38,716 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 23:35:38,760 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:45:58,068 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 23:45:58,071 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:45:58,074 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 23:45:58,075 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:45:59,184 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is about to open
+2020-11-24 23:45:59,186 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:46:19,624 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser is opened
+2020-11-24 23:46:19,625 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:46:19,629 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has to open
+2020-11-24 23:46:19,631 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:46:28,948 - com.zfnopCommerce.utilities.TestLogger -INFO - Application URl has opened
+2020-11-24 23:46:28,949 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:46:28,950 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  will be passed
+2020-11-24 23:46:28,950 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:46:30,197 - com.zfnopCommerce.utilities.TestLogger -INFO - email:admin@yourstore.com  password:admin  has passed
+2020-11-24 23:46:30,198 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:46:38,007 - com.zfnopCommerce.utilities.TestLogger -INFO - Loggedin Successfully
+2020-11-24 23:46:38,008 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:46:43,016 - com.zfnopCommerce.utilities.TestLogger -INFO - HomePage title verified
+2020-11-24 23:46:43,017 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************
+2020-11-24 23:46:52,466 - com.zfnopCommerce.utilities.TestLogger -INFO - Browser closed
+2020-11-24 23:46:52,467 - com.zfnopCommerce.utilities.TestLogger -INFO - **********************************************************

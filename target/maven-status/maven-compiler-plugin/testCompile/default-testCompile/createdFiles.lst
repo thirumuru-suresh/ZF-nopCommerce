@@ -1,0 +1,8 @@
+stepDefinitions\LoginStepDefinitions.class
+com\zfnopCommerce\commons\ReadConfig.class
+com\zfnopCommerce\commons\TestRunner.class
+com\zfnopCommerce\utilities\TestLogger.class
+com\zfnopCommerce\commons\DriverManager.class
+com\zfnopCommerce\page\LoginPage.class
+com\zfnopCommerce\utilities\ReadConfig.class
+com\zfnopCommerce\reports\Reporting.class
